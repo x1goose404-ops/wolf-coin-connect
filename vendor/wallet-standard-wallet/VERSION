@@ -1,0 +1,5 @@
+package: @wallet-standard/wallet
+version: 1.1.1
+source: https://registry.npmjs.org/@wallet-standard/wallet/-/wallet-1.1.1.tgz
+file: lib/esm/index.js (+ register.js, util.js)
+license: Apache-2.0
